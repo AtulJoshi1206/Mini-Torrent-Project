@@ -21,3 +21,4 @@ def run_script(path):
             elif cmd.startswith("EXIT"):
                 print("Script finished.")
                 break
+"# Minor refactor" 
