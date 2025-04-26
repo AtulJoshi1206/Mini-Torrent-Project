@@ -22,3 +22,4 @@ def run_script(path):
                 print("Script finished.")
                 break
 "# Minor refactor" 
+"# Added input validation" 
